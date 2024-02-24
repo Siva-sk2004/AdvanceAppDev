@@ -1,0 +1,10 @@
+.profile-pic{
+    padding: 40px 40px 40px 40px;
+    
+
+}
+.profile-Details>ul{
+    color: #000000;
+    flex-direction: column;
+    align-items:start;
+}
